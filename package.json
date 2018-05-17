@@ -1,5 +1,28 @@
 {
   "dependencies": {
+    "lodash": "^4.17.10",
+    "marked": "^0.3.19",
     "request": "^2.86.0"
-  }
+  },
+  "name": "digitalcrafts_node",
+  "version": "1.0.0",
+  "description": "npm exercises",
+  "main": "callbacks_exercises.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schmidtna/digitalcrafts_node.git"
+  },
+  "author": "Nick Schmidt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/schmidtna/digitalcrafts_node/issues"
+  },
+  "homepage": "https://github.com/schmidtna/digitalcrafts_node#readme"
 }
