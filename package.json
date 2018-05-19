@@ -2,7 +2,8 @@
   "dependencies": {
     "lodash": "^4.17.10",
     "marked": "^0.3.19",
-    "request": "^2.86.0"
+    "request": "^2.86.0",
+    "request-promise": "^4.2.2"
   },
   "name": "digitalcrafts_node",
   "version": "1.0.0",
